@@ -10,7 +10,7 @@ const assistant = new BardAPI();
 
 async function MakeAssistant() {
   try {
-    await assistant.setSession('__Secure-1PSID', 'WgjdhzNPOlGr_RuporRQddP4HoYrwYyMAJHU3mnVJWhiVv1rmbEuW2_jiuvT4Xy7y-AVew.');
+    await assistant.setSession('__Secure-1PSID', 'ZQjdh6okGT5xHT-7mO87LBG9ZNjizGN-tYJtuvIdepxqKyXJsHrTuG1IdzE87QtP7Ea24Q.');
   } catch (error) {
     console.error('Error:', error);
   }
